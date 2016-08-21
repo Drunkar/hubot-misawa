@@ -1,0 +1,24 @@
+
+{
+  "name": "hubot-misawa",
+  "version": "1.0.0",
+  "description": "Send jigoku no misawa image via hubot-google-images.",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Drunkar/hubot-misawa"
+  },
+  "keywords": [
+    "hubot"
+  ],
+  "author": "Drunkar",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/Drunkar/hubot-misawa/issues"
+  },
+  "homepage": "https://github.com/Drunkar/hubot-misawa"
+}
